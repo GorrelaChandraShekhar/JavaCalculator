@@ -26,12 +26,10 @@ This console application allows users to perform basic arithmetic operations wit
 
 1. Open terminal inside the project folder
 2. Compile the program:
-
-```bash
-javac Calculator.java
-
-3.Run the program:
-java Calculator
+   ```bash
+     javac Calculator.java
+3 . Run the program:
+    java Calculator
 
 4. Follow the prompts to perform calculations
 
@@ -48,4 +46,4 @@ Chandhu
 Java Developer Intern – August 2025
 
 GitHub Repository
-https://github.com/YOUR_USERNAME/JavaCalculatorc
+https://github.com/GorrelaChandraShekhar/JavaCalculator.git
